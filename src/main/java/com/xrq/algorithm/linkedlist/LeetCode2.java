@@ -3,7 +3,7 @@ package com.xrq.algorithm.linkedlist;
 /**
  * https://leetcode.cn/problems/add-two-numbers/
  */
-public class Leetcode2 {
+public class LeetCode2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode p1 = l1;
         ListNode p2 = l2;
